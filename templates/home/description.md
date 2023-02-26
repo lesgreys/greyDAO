@@ -1,4 +1,7 @@
-# WTF is Noun Site?
+# What is GREY?
 
-Congrats on deploying your new nounish website ✨. Head to `/templates/home/description.md` to edit this description.
-For full documentation visit the [Noun Site](https://github.com/neokry/noun-site) page on github.
+Grey is an aspirational “experiment” to re-index the fashion economy on-chain. While projects such as Nouns are attempting to bootstrap identity, community, governance, and a treasury to be used by the community. Grey attempts to drill a little lower, bootstrapping designers, creators, influencers, seamstresses , pattern-makers, interns, manufacturers, and more. 
+
+Proliferate the fashion economy by funding and helping creators making a living in fashion, while contributing through the Grey Ecosystem.
+
+Learn more below, or start creating new fabrics of our civilization using StudioApp.
