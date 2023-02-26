@@ -4,4 +4,4 @@ GREY is an aspirational “experiment” to re-index the fashion economy on-chai
 
 Proliferate the fashion economy by funding and helping creators making a living in fashion, while contributing through the GREY Ecosystem.
 
-Learn more below, or start creating new fabrics for our civilization, using StudioApp.
+Learn more below, or start creating new fabrics for our civilization, using studioGREY.
